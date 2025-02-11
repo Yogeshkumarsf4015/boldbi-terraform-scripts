@@ -125,14 +125,15 @@ Execute the following command to apply the Terraform script. When prompted, type
 terraform apply
 ```
 
-![Terraform Apply](./images/terraform-apply.png)
+https://github.com/user-attachments/assets/b5f69a18-4e0b-4ecf-8bc5-88c754d80186
 
 After seeing the following message, you can access Bold BI in your browser:
 ![Success Message](./images/terraform-success-message.png)
 
 Please wait until the startup process completes and avoid opening the URL in multiple tabs. The initial startup may take some time. Once the startup configuration is complete, Bold BI will be ready for use.
 
-![Bold BI Ready](./images/Dashboard-listing.png)
+https://github.com/user-attachments/assets/afc94f05-e0fb-40ae-84e9-2f40e6bed6ec
+
 
 ## Destroy Bold BI and Resources
 
@@ -142,4 +143,4 @@ To destroy Bold BI and all associated resources, run the following command from 
 terraform destroy
 ```
 
-![Bold BI Ready](./images/terrform-destroy.png)
+https://github.com/user-attachments/assets/781cf72e-1975-46c6-ab92-bf35461d7918
